@@ -2,8 +2,8 @@
 
 1. Download the data source file with the following link:
 
-Visit the link for Human Activity Recognition Using Smartphones Data Set: ## http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
-And for the data set of the project please us the following link: ## https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Visit the link for Human Activity Recognition Using Smartphones Data Set: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+And for the data set of the project please us the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Performing R Script
 
