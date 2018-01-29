@@ -1,8 +1,8 @@
-# Getting-and-Cleaning-Data-Course-Project
+## Getting-and-Cleaning-Data-Course-Project
 
 This repository contains the R code and documentation files for the Data Science's track course "Getting and Cleaning data", which is available in coursera.
 
-#Files
+## Files
 
 CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
 
